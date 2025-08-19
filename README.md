@@ -2,7 +2,7 @@
 
 In this repo I learned how to build a pipeline in jenkins in a google clouds VM instance and will be given a walkthrough how you guys can build the basic pipeline in jenkins.
 
-[The java application used in this project can be found]([here](https://github.com/Hemanth42d/java-maven-app-learning-jenkins.git))
+[The java application used in this project can be found](https://github.com/Hemanth42d/java-maven-app-learning-jenkins.git)
 
 The thing we need to check before building a pipeline is:
 - We need a server to run these services on (In my example i am using a Google clouds virtual machine )
@@ -36,7 +36,7 @@ Once clicking on ok you will be redirected to the pipeline configure page and ne
 
 <img width="1920" height="959" alt="Screenshot from 2025-08-19 23-18-37" src="https://github.com/user-attachments/assets/fad8b14f-55f7-4e81-84f1-c1b6e9c139c6" />
 
-Then configure jenkinsfile like code code for the jenkins file , here i provide the link for jenkins file is in the application code itself.(mentioned above)
+Then configure jenkinsfile like code code for the jenkins file , here i provide the link for jenkins file is in the [application code itself.](https://github.com/Hemanth42d/java-maven-app-learning-jenkins.git)
 At last click on Build Now and check for error logs or success logs in the console output section.
 After completion we will get success message and something like this
 
